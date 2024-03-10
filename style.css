@@ -4,6 +4,23 @@ body {
 section{
     text-align: centre;
 }
+.game--title{
+    width: auto;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellowgreen;
+
+}
+
+.game--restart{
+    width: auto;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-inline: auto;
+}
 
 .game--container {
     display: grid;
